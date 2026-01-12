@@ -31,6 +31,12 @@ Migração de Contrato: Oferecer benefícios (como upgrades temporários) para c
 Cross-selling de "Escudo": Automatizar campanhas de marketing para oferecer serviços de Suporte e Segurança como cortesia por 3 meses para novos assinantes.
 
 Atenção aos Clientes de Alto Valor: Criar um alerta no sistema para o time de retenção sempre que um cliente com ticket acima de R$ 70,00 e contrato mensal atingir o 10º mês de casa (período próximo à curva de queda).
+## 📊 Dashboard Interativo
+
+O projeto conta com um dashboard desenvolvido em Power BI para visualização estratégica dos dados e suporte à tomada de decisão.
+
+👉 [**Clique aqui para acessar o Dashboard Interativo**](https://app.powerbi.com/view?r=eyJrIjoiZGE5YzgyMzEtN2JkMy00NDEwLTgzNjgtZDYwNmU1NDFhMzYzIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9)
+
 ## 📊 Dashboards
 
 ### 1. Panorama Geral
