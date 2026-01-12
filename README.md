@@ -17,6 +17,7 @@ A análise inicial revelou uma base de clientes robusta, com faturamento superio
 
 O cruzamento de dados evidenciou que o Churn **não é aleatório**: ele está concentrado no grupo que utiliza Fibra Óptica sem o suporte de serviços de valor agregado (como Segurança Online e Backup). Notou-se uma redução significativa de cerca de 6% na taxa de cancelamento em clientes que possuem esse 'escudo' de serviços. Além disso, foi indentificado um ponto crítico no método de pagamento via 'Electronic Check' aliado ao contrato mensal, onde elevam drasticamente a perda de clientes.
 
+
 3. Insights Estratégicos e Retenção
 A análise temporal demonstrou que a janela de maior risco ocorre nos primeiros 17 meses de contrato, período após o qual a taxa de Churn se estabiliza. Um dado alarmante é que o ticket médio dos clientes que cancelam (R$ 74,44) é superior ao daqueles que permanecem (R$ 61,27), indicando que a empresa está perdendo seus usuários mais rentáveis de forma precoce.
 
