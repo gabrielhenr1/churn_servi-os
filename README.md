@@ -31,3 +31,13 @@ Migração de Contrato: Oferecer benefícios (como upgrades temporários) para c
 Cross-selling de "Escudo": Automatizar campanhas de marketing para oferecer serviços de Suporte e Segurança como cortesia por 3 meses para novos assinantes.
 
 Atenção aos Clientes de Alto Valor: Criar um alerta no sistema para o time de retenção sempre que um cliente com ticket acima de R$ 70,00 e contrato mensal atingir o 10º mês de casa (período próximo à curva de queda).
+## 📊 Dashboards
+
+### 1. Panorama Geral
+![Painel de Contexto](./imagens/imagem1.png)
+
+### 2. Diagnóstico de Churn
+![Painel de Diagnóstico](./imagens/imagem2.png)
+
+### 3. Estratégia de Retenção
+![Painel de Estratégia](./imagens/imagem3.png)
